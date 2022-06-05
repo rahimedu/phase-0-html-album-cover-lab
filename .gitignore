@@ -18,6 +18,8 @@ lib-cov
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
+          <div>
+       </div>
 
 # Dependency directories
 node_modules

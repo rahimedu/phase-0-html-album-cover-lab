@@ -136,7 +136,7 @@ describe("index.html", () => {
       expect(img).to.have.attribute(
         "src",
         "https://s3.amazonaws.com/learn-verified/sony-logo.png"
-      );
+      );http://..../image-name
     });
   });
 });
